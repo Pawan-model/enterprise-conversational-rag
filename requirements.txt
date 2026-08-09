@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+sentence-transformers
+qdrant-client
+google-genai
+ragas 
+datasets
+pymupdf
+langchain-text-splitters
+python-multipart
+rank-bm25
+openai
